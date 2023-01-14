@@ -1,0 +1,15 @@
+.fre{
+    background-image: url(img/2.jpg);
+    background-size: cover !important;
+    background-repeat: no-repeat;
+    padding-bottom: 42%;
+}
+.ggt{
+    background-image: url(img/9.jpg);
+    background-size: cover !important;
+    background-repeat: no-repeat;
+    padding-bottom: 20%;
+}
+.ffff{
+    width: 100%;
+}
